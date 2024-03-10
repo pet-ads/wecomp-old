@@ -1,0 +1,22 @@
+{
+  "name": "Landing_Page_IFSP",
+  "version": "1.0.0",
+  "description": "landing page IFSP 2017",
+  "main": "index.js",
+  "scripts": {
+    "start": "npm install && gulp",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "cristofersousa",
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap3": "^3.3.5",
+    "font-awesome": "^4.7.0",
+    "gulp": "^4.0.2"
+  },
+  "devDependencies": {
+    "gulp-connect": "^5.5.0",
+    "gulp-stylus": "^2.5.0",
+    "gulp-surge": "^0.1.0"
+  }
+}

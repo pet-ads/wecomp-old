@@ -1,0 +1,37 @@
+.about {
+  color: #34495e;
+}
+
+.about h2 {
+  font-size: 1.5em;
+  font-weight: bold;
+  padding-bottom: 10px;
+  padding-top: 10px;
+}
+.about p {
+  text-align: justify;
+  font-size: 1.2em;
+}
+
+
+
+.promo {
+  margin-top: 50px;
+  margin-bottom: 50px;
+
+}
+.promo i {
+  font-size: 2.5em;
+}
+
+.promo span {
+  font-size: 1em;
+    display: block;
+    text-align: center;
+}
+
+.promo img {
+  width: 60px;
+  display: -webkit-inline-box;
+  padding-bottom: 15px;
+}

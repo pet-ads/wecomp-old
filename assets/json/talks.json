@@ -1,0 +1,51 @@
+[
+  {
+    "headerClass": "card-header-purple-blue",
+    "title": "O papel da Tecnologia no Marketing Digital",
+    "name": "com Carlos Pereira Lopes Filho",
+    "date": "Dia 07/05 as 19h | Lab C203",
+    "description": "<br>Graduado em Ciências de Computação pela USP, participou de todo o crescimento da Raccoon e formação do time de Tecnologia. Hoje é Gerente de uma área com mais de 70 Desenvolvedores, que prestam serviços para gigantes do mercado, como Natura, FastShop e Kabum!<br>",
+    "photos": "",
+    "companyURL": "https://raccoon.ag/",
+    "companyLogo": "assets/img/racoon.png",
+    "companyLogoWidth": "20%",
+    "formsLink": "",
+    "oldLink": "https://forms.gle/Y4KrWwL6fTZKa6Nm8"
+  },
+  {
+    "headerClass": "card-header-movile",
+    "title": "3º Movile Tech Woman",
+    "name": "",
+    "date": "Dia 08/05 das 18h30 às 22h | OnovoLab",
+    "description": "<p><br>Após duas edições bem sucedidas, decidimos trazer o Movile Tech Woman para São Carlos, dessa vez fazendo parte da programação da III semana de computação WECOMP.<br><br>O Movile Tech Woman é uma iniciativa que surgiu na Wavy, e se expandiu para o grupo Movile, e tem como objetivo trazer conteúdo tech para mulheres que estão na área ou possuem curiosidade.<br><br>Assim como no anterior, vale lembrar: organizamos este evento com o objetivo de reunir as mulheres, para compartilharmos experiências e conhecimento. Venha preparada para assistir a talks de mulheres incríveis e aprender bastante. Temos um foco em assuntos de tecnologia porque queremos atrair mas mulheres para essa área (<span style='color: red'>❤</span>), mas mulheres de todas as áreas são super bem vindas! \n<h5>Programação</h5>\n<ul style='list-style: inside;'>\n<li>18:30 - Social/Coffee</li>\n<li>19:10 - Arrancada, o que este esporte pode nos ensinar sobre agilidade e performance? (Tatiane Payá - Coordenadora de Governança e Suporte no Ifood)</li>\n<li>20:40 -  Humanos e a Tecnologia. Os dispostos se atraem (Raquel Tanurcov - HR Business Partner no Serasa experian)</li>\n<li>21:10 - Coffee break</li>\n<li>21:40 - Atomic Design, componentizando interfaces (Amanda Nalesso - Front end developer na Wavy)</li>\n<li>21:30 - Speed Hiring</li>\n</ul>\n",
+    "photos": {
+        "invites": [
+          {"photo": "assets/img/palestrantes/TatianePaya.jpeg", "name": "Tatiane Payá", "link": "https://www.linkedin.com/in/tatianepaya/", "width": "55%"},
+          {"photo": "assets/img/palestrantes/RaquelTanurcov.jpeg", "name": "Raquel Tanurcov", "link": "https://www.linkedin.com/in/raquel-tanurcov-282373106/", "width": "55%"}
+        ],
+        "organization": [
+          {"photo": "assets/img/palestrantes/AmandaNalesso.jpg", "name": "Amanda Nalesso", "link": "https://www.linkedin.com/in/amanda-nalesso-b85ba8a4/", "width": "90%"},
+          {"photo": "assets/img/palestrantes/MarianaFantini.jpeg", "name": "Mariana Fantini", "link": "https://www.linkedin.com/in/marianafantini/", "width": "90%"},
+          {"photo": "assets/img/palestrantes/YasminBenatti.jpeg", "name": "Yasmin Benatti", "link": "https://www.linkedin.com/in/yasminbenatti/", "width": "90%"}
+        ]
+    },
+    "companyURL": "",
+    "companyLogo": "",
+    "companyLogoWidth": "",
+    "formsLink": "",
+    "oldLink": "https://www.sympla.com.br/3-meetup-movile-tech-women__517090"
+  },
+  {
+    "headerClass": "card-header-blue-to-blue",
+    "title": "Desenvolvimento com React",
+    "name": "com Fernando Jorge Sales da Silva",
+    "date": "Dia 09/05 as 19h | Lab C203",
+    "description": "<br>Graduado em Análise e Desenvolvimento de Sistemas pelo IFSP-São Carlos. Hoje trabalha como desenvolvedor de software na Monitora.<br>",
+    "photos": "",
+    "companyURL": "https://www.monitoratec.com.br/",
+    "companyLogo": "assets/img/monitora.png",
+    "companyLogoWidth": "17%",
+    "formsLink": "",
+    "oldLink": "https://forms.gle/2V8j1PcffMegBJqJ7"
+  }
+]

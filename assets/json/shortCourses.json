@@ -1,0 +1,151 @@
+[
+  {
+    "headerClass" :"card-header-blue-to-blue",
+    "title": "Introdução a UX: A experiência do usuário e o mercado de trabalho",
+    "name": "Bruno Alves e Túlio Campos",
+    "workLoad": "3h",
+    "date": "Dia 06/05 das 14h às 17h | Lab C205",
+    "shortBio": "<br><br>Formado em Sistemas de Informação pela UFU, ex dev front-end, resolveu se aventurar no que é apaixonado: UX! Atualmente faz mestrado em computação na UFSCar e trabalha como designer UX/UI na Tokenlab.<br><br><br><br>Estudante de Ciência da Computação na UFSCar, descobriu o design e nunca mais fez outra coisa. Hoje é estagiário de design UX/UI na Tokenlab.<br><br>",
+    "vacancy": "25",
+    "photos": [
+      {"photo": "assets/img/palestrantes/BrunoAlves.jpeg","photoClass": "tokenlab-img"},
+      {"photo": "assets/img/palestrantes/TulioCampos.jpeg","photoClass": "tokenlab-img"}
+    ],
+    "companyURL": "http://www.tokenlab.com.br/pt/",
+    "companyLogoClass": "tokenLogo",
+    "companyLogo": "assets/img/palestrantes/empresas/tokenlab_logo.png",
+    "companyLogoHeight": "40px",
+    "formsLink": "",
+    "oldLinks": "https://forms.gle/wfdfU46qGGHbdoF77"
+  },
+  {
+    "headerClass" :"card-header-red-blue",
+    "title": "Mineração de dados",
+    "name": "Carlos Schmiedel",
+    "workLoad": "4h",
+    "date": "Dia 07/05 das 08h às 12h | Lab C209",
+    "shortBio": "Tecnólogo em Processos Gerenciais e aficionado por matemática, gestão estratégica e Business Intelligence, atua há 5 anos desenvolvendo soluções para as dores de gestão financeira de micro, pequenas e médias empresas. Participante do 1o Ciclo de 2018 do Programa de Aceleração da VISA onde adquiriu e aprimorou conceitos de Service Design e experiência do usuário em startups. Em 2017 conseguiu a certificação no Programa StartupFocus da SAP desenvolvendo uma solução em HANA que utiliza Algoritmos de Testes de Sazonalidade para predição de vendas que hoje é aplicado na Predify. Atualmente a Predify faz parte do portfólio de investimentos da Orgânica Venture Builder, uma das principais consultorias de crescimento para startups do Brasil.",
+    "vacancy": "25",
+    "photos": [
+      {"photo": "assets/img/palestrantes/CarlosSchmiedel.png","photoClass": "schmiedel-img"}
+    ],
+    "companyURL": "https://predify.me/",
+    "companyLogoClass": "",
+    "companyLogo": "assets/img/predify.png",
+    "companyLogoHeight": "40px",
+    "formsLink": "",
+    "oldLinks": "https://forms.gle/YzHk24YNEjr3nbEm6"
+  },
+  {
+    "headerClass" :"card-header-blue",
+    "title": "Web Crawlers Coletando grande volume de dados da web",
+    "name": "Everton A. Cherman",
+    "workLoad": "3h",
+    "date": "Dia <strike>07/05</strike> 22/05 das 14h às 17h | Lab C209",
+    "shortBio": "Everton graduou-se em Ciência da Computação pela UNIOESTE (Foz do Iguaçu) em 2005 e realizou doutorado em Aprendizado de Máquina pelo ICMC/USP em 2014. Desde a graduação pesquisa e aplica Aprendizado de Máquina em diversas domínios com destaque para temas como Mineração de Texto, Aprendizado Supervisionado Multirrótulo e Aprendizado Ativo. Em 2014 fundou a startup Onion Menu com o objetivo de construir um sistema de recomendação que personaliza o atendimento via aplicativos na área de alimentação. Atualmente é co-fundador e responsável técnico-científico na Birdie, onde tem processado uma grande volume de dados relacionados a produtos em e-commerces com o objetivo de construir uma plataforma social de recomendação de produtos.",
+    "vacancy": "25",
+    "photos": [
+      {"photo": "assets/img/palestrantes/Foto%20Everton.png", "photoClass": "everton-img"}
+    ],
+    "companyURL": "https://www.birdie.ai/",
+    "companyLogoClass": "",
+    "companyLogo": "assets/img/palestrantes/empresas/birdie.svg",
+    "companyLogoHeight": "40px",
+    "formsLink": "https://forms.gle/mAVWZn96GPjrrygn7",
+    "oldLinks": ""
+  },
+  {
+    "headerClass" :"card-header-red",
+    "title": "Arquitetura de sistemas baseados em workflow com microserviços em Python",
+    "name": "Paulo Gurgel",
+    "workLoad": "3h",
+    "date": "Dia 08/05 das 08h às 11h | Lab C209",
+    "shortBio": "Paulo Gurgel é Mestre em Ciências da Computação e Matemática Computacional pelo ICMC-USP. Trabalha com desenvolvimento de software desde 2002, utilizando diferentes tecnologias e linguagens como Java, Python, Delphi, PHP, JS, C e Go. Atualmente, atua como arquiteto de software em projetos envolvendo SoA, Bpm/Workflow, bases de dados relacionais e NoSQL, arquitetura de Microserviços, data streaming com Kafka/RabbitMQ e outros. Também é um dos autores do livro 'Redes de Computadores da Teoria à Prática com Netkit', publicado pela ElSevier",
+    "vacancy": "25",
+    "photos": [
+      {"photo": "assets/img/palestrantes/paulo%20gurgel_photo.jpg", "photoClass": "gurgel-img"}
+    ],
+    "companyURL": "http://www.ambarbrasil.com.br/pt/index.php",
+    "companyLogoClass": "",
+    "companyLogo": "assets/img/palestrantes/empresas/logo_ambar_v.svg",
+    "companyLogoHeight": "50px",
+    "formsLink": "",
+    "oldLinks": "https://forms.gle/u4xttRPgNK2H1yNM9"
+  },
+  {
+    "headerClass" :"card-header-green",
+    "title": "Spring-boot e Kotlin",
+    "name": "Breno Oliveira",
+    "workLoad": "3h",
+    "date": "Dia 08/05 das 14h às 17h | Lab C209",
+    "shortBio": "É programador viciado, pós-graduado pela Universidade de São Paulo, e tem trabalhado com desenvolvimento de software há mais de quinze anos, começando com tecnologias como PHP para Web e migrando para linguagens como Ruby, Java, JavaScript and Go. Também tem uma grande experiência acumulada com Arquitetura de Software, Micro Services, DevOps, DDD, TDD, BDD e é um entusiasta com metodologias ágeis como Scrum, XP, Lean e Kanban. Atualmente, está como CTO da Diin que é o fintech que vai ajudar os brasileiros a mudar sua relação com dinheiro.",
+    "vacancy": "25",
+    "photos": [
+      {"photo": "assets/img/palestrantes/Foto%20Breno.jpg", "photoClass": "breno-img"}
+    ],
+    "companyURL": "https://www.diin.com.br/",
+    "companyLogoClass": "",
+    "companyLogo": "assets/img/palestrantes/empresas/diin.png",
+    "companyLogoHeight": "40px",
+    "formsLink": "",
+    "oldLinks": "https://forms.gle/RkKgMi2Sn3DMJYDY7"
+  },
+  {
+    "headerClass" :"card-header-orange-cyan",
+    "title": "Desenvolvendo produtos “the startup way” - Do zero a produção com Rails, GCloud e Android",
+    "name": "Paulo Hecht, Rafael Caporal e Leonardo Lopes",
+    "workLoad": "8h",
+    "date": "Dias 09 e 10/05 das 08h às 12h | Lab C209",
+    "shortBio": [
+      "Paulo Hecht é Head de Produtos na tech.fit, empresa que desenvolve os principais apps de saúde e mudança de comportamento do Brasil. Fundador do Tecnonutri, um produto que nasceu de um side project em uma kitnete em São Carlos e ganhou asas impactando mais de 8 milhões de pessoas. Engenheiro de Computação pela UFSCar, tem em seu background desenvolvimento de jogos, web e mobile sempre com foco em desenvolvimento de produto centrado em usuário.<br><br>Rafael Caporal é Desenvolvedor Mobile na tech.fit, empresa que desenvolve os principais apps de saúde e mudança de comportamento do Brasil. Reside em São Carlos, cidade onde cursou Ciência da Computação pela UFSCar e que espera se tornar o maior polo tecnológico do país.  Apresenta experiência no desenvolvimento de aplicativos Android, desenvolvimento de Sistemas Embarcados e se aventura também no desenvolvimento de produto e design.<br><br>Leonardo Lopes é desenvolvedor back-end na tech.fit, empresa que desenvolve os principais apps de saúde e mudança de comportamento do Brasil. Reside em São Carlos, cidade onde cursou Ciência da Computação pela UFSCar. Possui experiência com desenvolvimento fullstack, mas ultimamente prefere ficar nos bastidores desenvolvendo apis e sem preconceito com qualquer linguagem, até mesmo javascript."
+    ],
+    "vacancy": "25",
+    "photos": [
+      {"photo": "assets/img/palestrantes/PauloHecht.jpeg", "photoClass": "techfit-img"},
+      {"photo": "assets/img/palestrantes/RafaelCaporal.jpeg", "photoClass": "techfit-img"},
+      {"photo": "assets/img/palestrantes/LeonardoLopes.jpeg", "photoClass": "techfit-img"}
+    ],
+    "companyURL": "https://tech.fit/",
+    "companyLogoClass": "",
+    "companyLogo": "assets/img/palestrantes/empresas/techfit.png",
+    "companyLogoHeight": "40px",
+    "formsLink": "",
+    "oldLinks": "https://forms.gle/nTSJV7rnJJVG6yXW9"
+  },
+  {
+    "headerClass" :"card-header-purple-blue",
+    "title": "Construir uma API em GraphQL em Node.js",
+    "name": "Felipe Constantino",
+    "workLoad": "4h",
+    "date": "Dias 09/05 das 14h às 18h | Lab C209",
+    "shortBio": "Felipe é formado em Análise e Desenvolvimento de Sistemas pela FATEC. Iniciou sua carreira criando Mobile Apps para Android, e foi evoluindo para outros campos de conhecimento como Dev, contando com um pequeno \"arsenal\" de conhecimento Full-Stack. Conhece JS / ES6, TypeScript, Java, Kotlin, Python, C# e C. Trabalha / já trabalhou com tecnologias: React & React-Native, Android, GraphQL, Node.js, Spring Boot, Apollo, Docker, Angular, Firebase, Unity, MongoDB, Serverless architecture, entre outros.Hoje é um dos integrantes do time dos Projetos de Inovação da ONOVOLAB, responsável por arquitetar e materializar soluções digitais para empresas parceiras que estão na busca por inovar em seus produtos, serviços ou processos.",
+    "vacancy": "25",
+    "photos": [
+      {"photo": "assets/img/palestrantes/Felipe%20constantino.jpeg", "photoClass": "felipe-img"}
+    ],
+    "companyURL": "https://www.onovolab.com",
+    "companyLogoClass": "",
+    "companyLogo": "assets/img/OnovoLabNew.png",
+    "companyLogoHeight": "50px",
+    "formsLink": "",
+    "oldLinks": "https://forms.gle/7r6dRKLZrngjQojJA"
+  },
+  {
+    "headerClass" :"card-header-blue-yellow",
+    "title": "Desenvolvendo aplicações com React",
+    "name": "Ricardo Fuzeto",
+    "workLoad": "3h",
+    "date": "Dias 10/05 das 14h às 17h | Lab C209",
+    "shortBio": "Formado em Sistemas de Informação pela Universidade de São Paulo, com Mestrado em Ciência de Computação pela mesma instituição. Atua há pouco mais de um ano como desenvolvedor full stack, tendo a mesma experiência com sistemas React. Nesse tempo, liderou o desenvolvimento de um boilerplate React, assim como atuou em diversos projetos, principalmente, como desenvolvedor React. Tem experiência no uso de bibliotecas auxiliares como Redux e Router, bem como EcmaScript 7 e 8, Webpack e Babel.",
+    "vacancy": "25",
+    "photos": [
+      {"photo": "assets/img/palestrantes/Ricardo%20Fuzeto.jpg", "photoClass": "fuzeto-img"}
+    ],
+    "companyURL": "https://www.monitoratec.com.br/",
+    "companyLogoClass": "",
+    "companyLogo": "assets/img/monitora.png",
+    "companyLogoHeight": "50px",
+    "formsLink": "",
+    "oldLinks": "https://forms.gle/DcGkvcpscdrrXLst9"
+  }
+]

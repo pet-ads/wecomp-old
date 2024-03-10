@@ -1,0 +1,22 @@
+.partners {
+  margin-bottom: 50px;
+  margin-top: -4%;
+}
+
+.partners__logos {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  text-align: center;
+}
+
+.partners__logos img {
+  width: 260px;
+}
+
+
+@media(max-width: 660px) {
+  .partners__logos img {
+      width: 100px;
+    }
+}

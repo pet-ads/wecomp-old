@@ -1,0 +1,22 @@
+[
+  {
+    "headerClass" :"card-header-blue-to-black",
+    "title": "Processo Seletivo - TokenLab",
+    "date": "Dia <strike>07/05</strike> 21/05 das 17h às 18h30",
+    "description": "Neste dia a empresa estará realizando um processo seletivo no laboratório C106 do IFSP",
+    "companyLogo": "assets/img/palestrantes/empresas/tokenlab_logo.png",
+    "companyLogoWidth": "25%",
+    "formsLink": "https://forms.gle/W6ChjHgGFyM7shWS6",
+    "oldLinks": ""
+  },
+  {
+    "headerClass" :"card-header-red-orange-black",
+    "title": "Speed Recruiting - OnovoLab",
+    "date": "Dia 10/05 das 17h às 18h30",
+    "description": "Você já participou de um speed recruiting?<br><br>Speed recruiting são entrevistas rápidas para conhecer os interesses, habilidades e experiências mais legais dos estudantes e profissionais que querem se conectar às oportunidades das empresas que estão no Onovolab e parceiros.<br><br>Estaremos no IFSP no dia 10/05! Venha conversar com a gente! Não tem avaliação prévia ou hora marcada, é só chegar! Dessa forma, a gente pode te conhecer melhor e quem sabe, você até dá match com alguma de nossas vagas:<br><br>Temos vagas abertas de:<br><div class='col-md-12 m-b-5per'><div class='col-md-4'><br>Data Scientist Júnior<br>Data Engineer/ DevOps<br>Designer UX<br></div><div class='col-md-4'><br>Desenvolvedor Back End Python<br>Desenvolvedor Full Stack – Node JS<br>Desenvolvedor Front End React<br></div><div class='col-md-4'><br>Desenvolvedor React Native<br>Desenvolvedor Mobile IOS<br>BackEnd/DevOps Developer<br></div></div><br><br>E aí, are you the one? Então marque na agenda, capriche no outfit e venha trocar uma ideia com a gente  ;)<br>Não curtiu nenhuma vaga? Não tem problema! Venha e faça parte do nosso MAPA DE TALENTOS, tendo acesso exclusivo às nossas vagas.<br><br><p class='text-center'>Nos vemos no IFSP dia 10/05!</p>",
+    "companyLogo": "assets/img/OnovoLabNew.png",
+    "companyLogoWidth": "10%",
+    "formsLink": "",
+    "oldLinks": ""
+  }
+]
